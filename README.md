@@ -1,5 +1,13 @@
 # Data Science Building Blocks
 
-The course provides an introduction to some data science techniques that have applications in engineering.
+These Jupyter notebooks are an introduction to some of the data science techniques that have applications in engineering.
+
+The notebooks can be accessed interactively using binder.org here:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/grahampullan/datascienceBB/master)
+
+Additional information on the concepts covered (and many others) can be found in these books:
+
+*Data-Driven Science and Engineering* by Brunton and Kutz
+
+*Linear Algebra and Its Applications* by Strang
