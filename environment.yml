@@ -1,0 +1,7 @@
+name: simple-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
